@@ -1,0 +1,55 @@
+Number of ONU in O=6
+
+Number of users in ONU O= 300
+Cost of O = 505
+Cost of each ONU in O = [80, 77, 87, 96, 65, 100]
+
+Cost of P = 418
+Selected ONU for P = [0, 4, 5, 1, 3]
+Number of ONU in P = 5
+Percentage cost decrease =17.227722772277225
+---------------------------------------------
+Number of ONU in O=7
+
+Number of users in ONU O= 300
+Cost of O = 457
+Cost of each ONU in O = [78, 67, 48, 100, 61, 61, 42]
+
+Cost of P = 396
+Selected ONU for P = [6, 0, 2, 5, 1, 3]
+Number of ONU in P = 6
+Percentage cost decrease =13.347921225382933
+---------------------------------------------
+Number of ONU in O=8
+
+Number of users in ONU O= 300
+Cost of O = 517
+Cost of each ONU in O = [53, 55, 66, 34, 92, 58, 100, 59]
+
+Cost of P = 417
+Selected ONU for P = [1, 3, 0, 4, 7, 2, 5]
+Number of ONU in P = 7
+Percentage cost decrease =19.342359767891683
+---------------------------------------------
+Number of ONU in O=9
+
+Number of users in ONU O= 300
+Cost of O = 603
+Cost of each ONU in O = [66, 54, 46, 85, 91, 62, 43, 100, 56]
+
+Cost of P = 449
+Selected ONU for P = [2, 0, 6, 3, 8, 4, 5]
+Number of ONU in P = 7
+Percentage cost decrease =25.538971807628524
+---------------------------------------------
+Number of ONU in O=10
+
+Number of users in ONU O= 300
+Cost of O = 575
+Cost of each ONU in O = [77, 42, 47, 100, 49, 70, 55, 70, 40, 25]
+
+Cost of P = 365
+Selected ONU for P = [1, 9, 2, 6, 7, 0, 4]
+Number of ONU in P = 7
+Percentage cost decrease =36.52173913043478
+---------------------------------------------

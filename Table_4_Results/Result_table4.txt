@@ -1,0 +1,60 @@
+Number of ONU in O =8
+Number of users in O =200
+Cost of O = 615
+Cost of each ONU in O= [95, 60, 100, 86, 80, 66, 42, 86]
+Number of users in each onu in O =[76, 23, 65, 5, 5, 24, 1, 1]
+
+Cost constraint cmax for P = 461(75% cost of O)
+Selected ONU for P = [6, 5, 3, 2, 1, 0]
+Number of users in P = 194
+Cost of P = 449
+Percentage user inclusion =97.0
+---------------------------------------------
+Number of ONU in O =8
+Number of users in O =250
+Cost of O = 535
+Cost of each ONU in O= [66, 100, 77, 71, 69, 66, 30, 56]
+Number of users in each onu in O =[101, 32, 47, 46, 0, 0, 23, 1]
+
+Cost constraint cmax for P = 401(75% cost of O)
+Selected ONU for P = [7, 6, 3, 2, 1, 0]
+Number of users in P = 250
+Cost of P = 400
+Percentage user inclusion =100.0
+---------------------------------------------
+Number of ONU in O =8
+Number of users in O =300
+Cost of O = 517
+Cost of each ONU in O= [53, 55, 66, 34, 92, 58, 100, 59]
+Number of users in each onu in O =[97, 53, 47, 61, 30, 2, 7, 3]
+
+Cost constraint cmax for P = 387(75% cost of O)
+Selected ONU for P = [7, 4, 3, 2, 1, 0]
+Number of users in P = 291
+Cost of P = 359
+Percentage user inclusion =97.0
+---------------------------------------------
+Number of ONU in O =8
+Number of users in O =350
+Cost of O = 540
+Cost of each ONU in O= [100, 42, 59, 95, 69, 40, 97, 38]
+Number of users in each onu in O =[177, 26, 2, 100, 43, 2, 0, 0]
+
+Cost constraint cmax for P = 405(75% cost of O)
+Selected ONU for P = [5, 4, 3, 2, 1, 0]
+Number of users in P = 350
+Cost of P = 405
+Percentage user inclusion =100.0
+---------------------------------------------
+Number of ONU in O =8
+Number of users in O =400
+Cost of O = 557
+Cost of each ONU in O= [88, 100, 82, 30, 58, 48, 81, 70]
+Number of users in each onu in O =[163, 92, 89, 8, 30, 18, 0, 0]
+
+Cost constraint cmax for P = 417(75% cost of O)
+Selected ONU for P = [5, 4, 3, 2, 1, 0]
+Number of users in P = 400
+Cost of P = 406
+Percentage user inclusion =100.0
+---------------------------------------------
