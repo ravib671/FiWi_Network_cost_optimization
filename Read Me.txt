@@ -1,0 +1,2 @@
+data folder contains all the required data for the experiments. Results are obtained for this data 
+which is generated using generate_min_deployment.py python code included in  generate_min_deployment folder. 
