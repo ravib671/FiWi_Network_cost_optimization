@@ -1,0 +1,70 @@
+Number of ONU =8
+
+Number of users in O =200
+Number of users in each onu in O =[76, 23, 65, 5, 5, 24, 1, 1]
+Cost of O = 615
+Cost of each ONU in O= [95, 60, 100, 86, 80, 66, 42, 86]
+
+Cost constraint cmax for P = 615(100%)
+Selected ONU for P(0-not selected) = [7, 6, 5, 4, 3, 2, 1, 0]
+Number of users in P = 200
+Cost of P = 615
+Number of onu in P = 8
+Percentage user inclusion =100.0%
+---------------------------------------------
+Number of ONU =8
+
+Number of users in O =250
+Number of users in each onu in O =[101, 32, 47, 46, 0, 0, 23, 1]
+Cost of O = 535
+Cost of each ONU in O= [66, 100, 77, 71, 69, 66, 30, 56]
+
+Cost constraint cmax for P = 401(75%)
+Selected ONU for P(0-not selected) = [7, 6, 3, 2, 1, 0]
+Number of users in P = 250
+Cost of P = 400
+Number of onu in P = 6
+Percentage user inclusion =100.0%
+---------------------------------------------
+Number of ONU =8
+
+Number of users in O =300
+Number of users in each onu in O =[97, 53, 47, 61, 30, 2, 7, 3]
+Cost of O = 517
+Cost of each ONU in O= [53, 55, 66, 34, 92, 58, 100, 59]
+
+Cost constraint cmax for P = 517(100%)
+Selected ONU for P(0-not selected) = [7, 6, 5, 4, 3, 2, 1, 0]
+Number of users in P = 300
+Cost of P = 517
+Number of onu in P = 8
+Percentage user inclusion =100.0%
+---------------------------------------------
+Number of ONU =8
+
+Number of users in O =350
+Number of users in each onu in O =[177, 26, 2, 100, 43, 2, 0, 0]
+Cost of O = 540
+Cost of each ONU in O= [100, 42, 59, 95, 69, 40, 97, 38]
+
+Cost constraint cmax for P = 405(75%)
+Selected ONU for P(0-not selected) = [5, 4, 3, 2, 1, 0]
+Number of users in P = 350
+Cost of P = 405
+Number of onu in P = 6
+Percentage user inclusion =100.0%
+---------------------------------------------
+Number of ONU =8
+
+Number of users in O =400
+Number of users in each onu in O =[163, 92, 89, 8, 30, 18, 0, 0]
+Cost of O = 557
+Cost of each ONU in O= [88, 100, 82, 30, 58, 48, 81, 70]
+
+Cost constraint cmax for P = 406(73%)
+Selected ONU for P(0-not selected) = [5, 4, 3, 2, 1, 0]
+Number of users in P = 400
+Cost of P = 406
+Number of onu in P = 6
+Percentage user inclusion =100.0%
+---------------------------------------------
